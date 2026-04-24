@@ -91,7 +91,7 @@ utilisation.to_csv("lp_plant_utilisation.csv", index=False)
 
 print("Files saved: lp_final_assignment.csv, lp_plant_utilisation.csv")
 
-#checks for feasibility 
+ ####checks for feasibility 
 
 
 
